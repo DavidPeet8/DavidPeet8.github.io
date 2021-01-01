@@ -1,4 +1,4 @@
 
 window.onload = () => {
-	window.location.replace("https://website.davidpeet.me");
+	window.location.replace("https://davidpeet.me/website");
 }
